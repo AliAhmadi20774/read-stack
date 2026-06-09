@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.md",
+                "file": "Stacks/AI/ML/ML PAPERS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ANOMALY TRANSFORMER"
+              "title": "ML PAPERS"
             }
           }
         ]
@@ -166,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c45c896a6268d59",
+  "active": "8ce7d61460cdfcda",
   "lastOpenFiles": [
+    "Stacks/AI/ML/ML PAPERS.md",
     "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.m4a",
     "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.md",
     "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.mp4",
