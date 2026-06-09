@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9fb3d5c78ef39c38",
+    "type": "split",
+    "children": [
+      {
+        "id": "359a2e784e0a3e65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c45c896a6268d59",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "ANOMALY TRANSFORMER"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7b6150cae85e9e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "42f26f3f9b680fd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ce7d61460cdfcda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b999fc6a373575f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1070f07014cb532",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "right": {
+    "id": "15a851e042363303",
+    "type": "split",
+    "children": [
+      {
+        "id": "92d4fb20ad52d872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ee9c9707c93ad48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e94f3dc04eae3737",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8266dba4f0c3c324",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd49d5f946232a78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1c45c896a6268d59",
+  "lastOpenFiles": [
+    "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.m4a",
+    "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.md",
+    "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.mp4",
+    "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.pdf",
+    "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.png",
+    "Papers/Anomaly Detection/Anomaly Transformer/Anomaly Transformer Slides.pdf",
+    "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.csv",
+    "Papers/Anomaly Detection/Anomaly Transformer/Book1.csv",
+    "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608101425.png",
+    "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608102635.png",
+    "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608104116.png",
+    "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608104213.png",
+    "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608104254.png",
+    "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608110438.png",
+    "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608110518.png",
+    "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608110651.png",
+    "Papers/Anomaly Detection/Anomaly Transformer/images",
+    "Papers/Anomaly Detection/TranAD/TranAD.pdf",
+    "Papers/Time - Series - Models/ROCKET/MINI-ROCKET.md",
+    "Papers/Anomaly Detection/TranAD",
+    "Papers/Anomaly Detection/Anomaly Transformer",
+    "C sharp/Stack-Heap.png",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/04. Inheritance - Second Pillar of OOP/04. Boxing and Unboxing.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/04. Inheritance - Second Pillar of OOP/03. Upcasting and Downcasting.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/04. Inheritance - Second Pillar of OOP/02. Constructors and Inheritance.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/04. Inheritance - Second Pillar of OOP/01. Access Modifiers.md",
+    "C sharp/C sharp - Basics for Beginners/2. Introduction to C sharp and .NET Framework/1. Introduction.md",
+    "Papers/Time - Series - Models/ROCKET/ROCKET.md",
+    "Papers/Time - Series - Models/Untitled.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/06. Interfaces/05. Interfaces and Polymorphism.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/06. Interfaces/04. Interfaces are NOT for Multiple Inheritance.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/06. Interfaces/03. Interfaces and Extensibility.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/06. Interfaces/02. Interfaces and Testability.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/06. Interfaces/01. What is an Interface.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/05. Polymorphism Third Pillar of OOP/03. Sealed Classes and Members.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/05. Polymorphism Third Pillar of OOP/02. Abstract Classes and Members.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/05. Polymorphism Third Pillar of OOP/01. Method Overriding.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/04. Favour Composition over Inheritance.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/03. Composition.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/02. Inheritance.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/01. Class Coupling.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/02. Classes/08. Indexers.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/02. Classes/06. Access Modifiers.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/02. Classes/07. Properties.md",
+    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/02. Classes/05. Fields.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

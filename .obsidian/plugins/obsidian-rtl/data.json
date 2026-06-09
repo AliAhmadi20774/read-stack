@@ -1,0 +1,12 @@
+{
+  "fileDirections": {
+    "Papers/Time - Series - Models/ROCKET/ROCKET.md": "rtl",
+    "Papers/Time - Series - Models/ROCKET/MINI-ROCKET.md": "auto"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "preventRTLFrontmatter": false,
+  "statusBar": true
+}
