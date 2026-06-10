@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1600dabb6d85073f",
+        "id": "d856b36b684d125e",
         "type": "tabs",
         "children": [
           {
-            "id": "4b05171b1adbe764",
+            "id": "215bdeaf7153f35f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,10 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b05171b1adbe764",
+  "active": "215bdeaf7153f35f",
   "lastOpenFiles": [
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.md",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.pdf",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.md",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610161302.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.md",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.m4a",
     "Stacks/AI/ML/ML PAPERS.md",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/Anomaly Transformer Slides.pdf",
@@ -184,7 +187,6 @@
     "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.png",
     "Papers/Anomaly Detection/Anomaly Transformer/Anomaly Transformer Slides.pdf",
     "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.csv",
-    "Papers/Anomaly Detection/Anomaly Transformer/Book1.csv",
     "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608101425.png",
     "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608102635.png",
     "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608104116.png",
@@ -192,7 +194,6 @@
     "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608104254.png",
     "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608110438.png",
     "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608110518.png",
-    "Papers/Anomaly Detection/Anomaly Transformer/images/Pasted image 20260608110651.png",
     "Papers/Time - Series - Models/ROCKET/MINI-ROCKET.md",
     "C sharp/C sharp - Intermediate Classes Interfaces and OOP/04. Inheritance - Second Pillar of OOP/04. Boxing and Unboxing.md",
     "C sharp/C sharp - Intermediate Classes Interfaces and OOP/04. Inheritance - Second Pillar of OOP/03. Upcasting and Downcasting.md",
@@ -213,7 +214,6 @@
     "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/03. Composition.md",
     "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/02. Inheritance.md",
     "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/01. Class Coupling.md",
-    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/02. Classes/08. Indexers.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
