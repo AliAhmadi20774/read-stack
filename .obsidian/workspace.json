@@ -11,14 +11,12 @@
             "id": "08e774652410100e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.md",
-                "mode": "source",
-                "source": false
+                "file": "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD-FA.png"
               },
-              "icon": "lucide-file",
-              "title": "TranAD"
+              "icon": "lucide-image",
+              "title": "TranAD-FA"
             }
           }
         ]
@@ -168,9 +166,11 @@
   },
   "active": "08e774652410100e",
   "lastOpenFiles": [
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD-EN.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.md",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD-FA.png",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182517.png",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182731.png",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.md",
     "Pasted image 20260610182446.png",
     "Pasted image 20260610182438.png",
     "Pasted image 20260610182417.png",
@@ -183,7 +183,6 @@
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.m4a",
     "Stacks/AI/ML/ML PAPERS.md",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/Anomaly Transformer Slides.pdf",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.png",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.pdf",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.mp4",
     "Stacks/AI/DeepLearning/TimeSeries/Classification/ROCKET/MINI-ROCKET.md",
@@ -191,7 +190,6 @@
     "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.md",
     "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.mp4",
     "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.pdf",
-    "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.png",
     "Papers/Anomaly Detection/Anomaly Transformer/Anomaly Transformer Slides.pdf",
     "Papers/Time - Series - Models/ROCKET/MINI-ROCKET.md",
     "C sharp/C sharp - Intermediate Classes Interfaces and OOP/04. Inheritance - Second Pillar of OOP/04. Boxing and Unboxing.md",
