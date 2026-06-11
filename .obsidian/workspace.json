@@ -11,10 +11,14 @@
             "id": "1f7e76e8d2ec2a3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -162,8 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ce7d61460cdfcda",
+  "active": "1f7e76e8d2ec2a3e",
   "lastOpenFiles": [
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.pdf",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/Anomaly Transformer Slides.pdf",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.md",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182731.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182517.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610161302.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182311.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.csv",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD InfoGraphic.png",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD Slides.pdf",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.mp4",
@@ -171,25 +183,16 @@
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD Blog.md",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.md",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.pdf",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182731.png",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182517.png",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182311.png",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610161302.png",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD-EN.png",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD-FA.png",
     "Pasted image 20260610182446.png",
     "Pasted image 20260610182438.png",
     "Pasted image 20260610182417.png",
-    "Pasted image 20260610182405.png",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.md",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.m4a",
     "Stacks/AI/ML/ML PAPERS.md",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/Anomaly Transformer Slides.pdf",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.pdf",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.mp4",
     "Stacks/AI/DeepLearning/TimeSeries/Classification/ROCKET/MINI-ROCKET.md",
-    "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.m4a",
     "Papers/Anomaly Detection/Anomaly Transformer/ANOMALY TRANSFORMER.md",
     "Papers/Time - Series - Models/ROCKET/MINI-ROCKET.md",
     "C sharp/C sharp - Intermediate Classes Interfaces and OOP/04. Inheritance - Second Pillar of OOP/04. Boxing and Unboxing.md",
