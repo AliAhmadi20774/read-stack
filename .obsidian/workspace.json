@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5885fa75815f0565",
+        "id": "648f569bcfb8215d",
         "type": "tabs",
         "children": [
           {
-            "id": "08e774652410100e",
+            "id": "7b213ebe3733d1ae",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD-FA.png"
+                "file": "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD Blog.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "TranAD-FA"
+              "icon": "lucide-file",
+              "title": "TranAD Blog"
             }
           }
         ]
@@ -164,20 +166,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08e774652410100e",
+  "active": "7b213ebe3733d1ae",
   "lastOpenFiles": [
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD-EN.png",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.md",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD-FA.png",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182517.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.pdf",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182731.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182517.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182311.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610161302.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD-EN.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD-FA.png",
+    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD Blog.md",
     "Pasted image 20260610182446.png",
     "Pasted image 20260610182438.png",
     "Pasted image 20260610182417.png",
     "Pasted image 20260610182405.png",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610182311.png",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/TranAD.pdf",
-    "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images/Pasted image 20260610161302.png",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/TranAD/images",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.md",
     "Stacks/AI/DeepLearning/TimeSeries/AnomalyDetection/AnomalyTransformer/ANOMALY TRANSFORMER.m4a",
@@ -210,7 +213,6 @@
     "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/04. Favour Composition over Inheritance.md",
     "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/03. Composition.md",
     "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/02. Inheritance.md",
-    "C sharp/C sharp - Intermediate Classes Interfaces and OOP/03. Association between Classes/01. Class Coupling.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
